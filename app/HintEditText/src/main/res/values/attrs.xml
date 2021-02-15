@@ -2,5 +2,9 @@
 <resources>
     <declare-styleable name="HintEditText">
         <attr name="hint" format="string"></attr>
+        <attr name="hintColor" format="color|reference"></attr>
+        <attr name="textColor" format="color|reference"></attr>
+        <attr name="bgColor" format="color|reference"></attr>
+
     </declare-styleable>
 </resources>

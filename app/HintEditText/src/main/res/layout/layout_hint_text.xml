@@ -4,7 +4,6 @@
     <TextView
         android:layout_height="wrap_content"
         android:layout_width="match_parent"
-
         android:id="@+id/tv_hint"
         style="@style/EditTextHint"
         ></TextView>
